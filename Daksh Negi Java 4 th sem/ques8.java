@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PatternCount {
+public class ques8 {
     public static int countPatterns(String str) {
         int count = 0;
         int n = str.length();
