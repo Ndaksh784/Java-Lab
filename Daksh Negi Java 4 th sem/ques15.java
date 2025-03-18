@@ -44,7 +44,7 @@ class Enrollment {
     }
 }
 
-public class StudentManagementSystem {
+public class ques15{
     public static void main(String[] args) {
         System.out.println("Name: Daksh Negi");
         System.out.println("Section - B1");
