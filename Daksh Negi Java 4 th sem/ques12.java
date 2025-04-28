@@ -4,15 +4,15 @@ abstract class Shape {
     abstract void circleArea(double radius);
 }
 class Area extends Shape {
-    @Override
+   
     void rectangleArea(double length, double breadth) {
         System.out.println("Area of Rectangle: " + (length * breadth));
     }
-    @Override
+    
     void squareArea(double side) {
         System.out.println("Area of Square: " + (side * side));
     }
-    @Override
+   
     void circleArea(double radius) {
         System.out.println("Area of Circle: " + (Math.PI * radius * radius));
     }
