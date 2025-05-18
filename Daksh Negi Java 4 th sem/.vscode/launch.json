@@ -2,6 +2,27 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "ques20",
+      "request": "launch",
+      "mainClass": "ques20",
+      "projectName": "Daksh Negi Java 4 th sem_a68cf6de"
+    },
+    {
+      "type": "java",
+      "name": "ques18",
+      "request": "launch",
+      "mainClass": "ques18",
+      "projectName": "Daksh Negi Java 4 th sem_a68cf6de"
+    },
+    {
+      "type": "java",
+      "name": "ques17",
+      "request": "launch",
+      "mainClass": "ques17",
+      "projectName": "Daksh Negi Java 4 th sem_a68cf6de"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
